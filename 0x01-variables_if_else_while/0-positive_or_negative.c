@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - Entry point for the code
+ * main - Entry point for the code
+ *
+ *Description: a random positive or negative number assigned each time
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
